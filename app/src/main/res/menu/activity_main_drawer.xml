@@ -10,6 +10,10 @@
             android:id="@+id/nav_complain_portal"
             android:icon="@drawable/ic_menu_complain_portal"
             android:title="Complain Portal" />
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/ic_menu_calendar"
+            android:title="Calendar" />
     </group>
 
     <item android:title="Communicate">
